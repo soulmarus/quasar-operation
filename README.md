@@ -8,9 +8,9 @@ O projeto está estruturado utilizando uma estrutura de DDD e Arquitetura Hexago
         topsecret-server -> contem o entry point da aplicação
     pkg
         http
-            rest -> adaptar para entrada rest
+            rest -> adaptador de entrada para protocolos rest
         storage
-            memory -> adaptador para operações
+            memory -> adaptador de saida para operações em memory
         tracking -> camada de algoritmos e models
 
 Para subir o projeto rodar:
