@@ -20,3 +20,5 @@ Para executar os testes unitarios rodar:
     go test ./... -v
 
 Testes funcionais estão na collection no diretorio postman e podem ser executados apontando para a URL do serviço.
+
+Obs: O IP public da instancia na GCP é o 35.188.206.137 e está escutando na porta 8080.
