@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"src/github.com/soulmarus/mercadolibre/pkg/tracking"
+	"github.com/soulmarus/quasar-operation/pkg/tracking"
 
 	"github.com/julienschmidt/httprouter"
 )

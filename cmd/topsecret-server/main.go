@@ -4,9 +4,10 @@ import (
 	"fmt"
 	"log"
 	"net/http"
-	"src/github.com/soulmarus/mercadolibre/pkg/http/rest"
-	"src/github.com/soulmarus/mercadolibre/pkg/storage/memory"
-	"src/github.com/soulmarus/mercadolibre/pkg/tracking"
+
+	"github.com/soulmarus/quasar-operation/pkg/http/rest"
+	"github.com/soulmarus/quasar-operation/pkg/storage/memory"
+	"github.com/soulmarus/quasar-operation/pkg/tracking"
 )
 
 // StorageType defines available storage types

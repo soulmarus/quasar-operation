@@ -1,4 +1,4 @@
-module src/github.com/soulmarus/mercadolibre
+module github.com/soulmarus/quasar-operation
 
 go 1.16
 
